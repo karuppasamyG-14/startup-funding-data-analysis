@@ -43,11 +43,10 @@ and MySQL to identify city, industry, and investor funding trends.
 
 ## Future Improvements
 - Merge additional near-duplicate industry labels (e.g., "Ecommerce" vs "E-Commerce")
-- Add a Power BI/Streamlit interactive dashboard
 - Expand to live-scraped, more recent funding data
 
 ## Power BI Dashboard
 ![Dashboard](visualizations/powerbi_dashboard.jpg)
 
-Interactive dashboard built in Power BI showing funding by city, industry, 
-top investors, and year-over-year trends, connected directly to the MySQL database.
+Interactive dashboard built in Power BI showing funding by city, industry, top investors, 
+and year-over-year trends, connected directly to the MySQL database.
